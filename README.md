@@ -1,12 +1,13 @@
 # FUTURE_DS_DS1031
 This repository contains projects, tasks, and learnings from my Data Science &amp; Analytics Internship at Future Interns. It includes work on data analysis, machine learning, web scraping, NLP, and visualization using Python, Excel, and Power BI. 🚀📊 #DataScience #Internship #FutureInterns
 
-#Social Media Trend Analysis
-##Overview
+# Social Media Trend Analysis
+
+## Overview
 
 This project analyzes social media trends across Twitter, Instagram, and Facebook. The analysis covers sentiment distribution, engagement trends, hashtag performance, and time-based sentiment shifts. The insights can help businesses optimize social media strategies and enhance audience engagement.
 
-##Files in Repository
+## Files in Repository
 
 * sentimentdataset.csv - The dataset used for analysis.
 
@@ -15,7 +16,7 @@ This project analyzes social media trends across Twitter, Instagram, and Faceboo
 * social_media_trend_report.pdf - Detailed report on findings and recommendations.
 
 
-##Key Features
+## Key Features
 
 * Sentiment analysis of posts (Positive, Negative, Neutral).
 
@@ -36,7 +37,7 @@ This project analyzes social media trends across Twitter, Instagram, and Faceboo
 * Regional and cultural trends (over geographical data) analysis.
  
 
-##Setup Instructions
+## Setup Instructions
 
 * Clone the repository: git clone [<repo_link>](https://github.com/subha200/FUTURE_DS_DS1031)
 
@@ -45,7 +46,7 @@ This project analyzes social media trends across Twitter, Instagram, and Faceboo
 * Run the Jupyter Notebook for data analysis and visualization.
   
 
-##Future Enhancements
+## Future Enhancements
 
 * Implement real-time sentiment tracking.
 
